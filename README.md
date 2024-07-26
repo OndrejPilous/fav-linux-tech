@@ -6,7 +6,7 @@ List of Linux technologies I for sure don't want to forget
 
 ### Kanata
 
-[source: jtroo/kanata](https://github.com/jtroo/kanata)
+[jtroo/kanata](https://github.com/jtroo/kanata)
 
 #### What for?
 
